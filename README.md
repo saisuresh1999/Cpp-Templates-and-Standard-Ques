@@ -5,4 +5,6 @@
 4. Heap Operations<br>
 5. Heap Sort<br>
 6. Sum of Elements(Hard Version)<br>
-
+7. Tree Traversal(ALL) <br>
+8. DFS
+9. Array kth rotation
